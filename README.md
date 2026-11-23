@@ -13,10 +13,10 @@
 [![Python 3.12+](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![MCP Native](https://img.shields.io/badge/MCP-native-8A2BE2)](https://modelcontextprotocol.io)
-[![GitHub stars](https://img.shields.io/github/stars/BlinkVoid/MemCore?style=social)](https://github.com/BlinkVoid/MemCore)
+[![GitHub stars](https://img.shields.io/github/stars/Figment-Foundry/MemCore?style=social)](https://github.com/Figment-Foundry/MemCore)
 
 > **⭐ If MemCore saves you tokens, please consider starring the repo — it helps more builders find it.**
-[![PromptCore: reasoning framework selector](https://img.shields.io/badge/PromptCore-reasoning%20framework%20selector-blue)](https://github.com/BlinkVoid/PromptCore)
+[![PromptCore: reasoning framework selector](https://img.shields.io/badge/PromptCore-reasoning%20framework%20selector-blue)](https://github.com/Figment-Foundry/PromptCore)
 [![Multipass: secure desktop LLM workspace](https://img.shields.io/badge/Multipass-secure%20desktop%20LLM%20workspace-green)](https://github.com/BlinkVoid/multipass)
 
 ---
@@ -93,7 +93,7 @@ Three tokens at L0. Fifty at L1. Full detail only on demand. The agent controls 
 
 ## Related Projects
 
-- **[PromptCore](https://github.com/BlinkVoid/PromptCore)** — reasoning framework selector. Automatically picks the best reasoning strategy for your task.
+- **[PromptCore](https://github.com/Figment-Foundry/PromptCore)** — reasoning framework selector. Automatically picks the best reasoning strategy for your task.
 - **[Multipass](https://github.com/BlinkVoid/multipass)** — secure desktop LLM workspace. Run local and remote models in a sandboxed desktop environment.
 
 ---
@@ -171,7 +171,7 @@ Switch providers by changing one line in `.env`. Embeddings are always local -- 
 
 ```bash
 # Clone
-git clone https://github.com/BlinkVoid/MemCore.git
+git clone https://github.com/Figment-Foundry/MemCore.git
 cd MemCore
 
 # Install dependencies
@@ -295,7 +295,7 @@ For bug reports and feature requests, open an issue on GitHub.
 
 ## Related Projects
 
-- **[PromptCore](https://github.com/BlinkVoid/PromptCore)** — Auto-selects the optimal reasoning framework from 40 peer-reviewed strategies
+- **[PromptCore](https://github.com/Figment-Foundry/PromptCore)** — Auto-selects the optimal reasoning framework from 40 peer-reviewed strategies
 - **[multipass](https://github.com/BlinkVoid/multipass)** — Desktop clipboard & chat workspace with prompt-security boundaries
 - **[BlinkVoid MCP Toolkit](https://github.com/BlinkVoid/BlinkVoid-MCP-Toolkit)** — Overview of all MCP-native tools
 
